@@ -10,6 +10,10 @@
 6. [Codelearn.io - C++](https://codelearn.io/learning/cpp-for-beginners)
 7. [Codelearn.io - OOP](https://codelearn.io/learning/lap-trinh-huong-doi-tuong-trong-cpp)
 
+### Youtube 
+1. [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+2. [C++ Programming Course - Beginner to Advanced](https://www.youtube.com/watch?v=8jLOx1hD3_o)
+3. [Object Oriented Programming (OOP) in C++ Course](https://www.youtube.com/watch?v=wN0x9eZLix4)
 
 ## Python Programming Language 
 ### Documentation
@@ -22,7 +26,9 @@
 ## Arduino Framework / PlatformIO 
 
 ## Data Structure & Algorithm *(Optional)*
-1. [Geeksforgeeks](https://www.geeksforgeeks.org/) 
+1. [Geeksforgeeks](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=home-articlecards) 
+
+---
 
 > [!NOTE]
 >
