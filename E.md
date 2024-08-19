@@ -10,7 +10,6 @@ Lập trình Arduino, Platform IO, mạch cầu H, PWM, PCB,...
 [Mạch cầu H là gì?](https://youtu.be/3N_4VpzmKY0)
 ![Minh họa mạch cầu H](image/h-bridge.png)
 
-
 # Mở rộng
 ## [YouTube - Branch Education](https://www.youtube.com/c/BranchEducation)
 
