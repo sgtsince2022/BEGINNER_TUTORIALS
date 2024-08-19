@@ -1,8 +1,17 @@
 # ELECTRONICS
 
 ## Từ khóa: 
-Lập trình Arduino, Platform IO, mạch cầu H, PCB,...
+Lập trình Arduino, Platform IO, mạch cầu H, PWM, PCB,...
 
+## PWM
+[PWM là gì?](https://youtu.be/GQLED3gmONg)
+![Minh Họa PWM](image/pwm.png)
+## Mạch cầu H
+[Mạch cầu H là gì?](https://youtu.be/3N_4VpzmKY0)
+![Minh họa mạch cầu H](image/h-bridge.png)
+
+
+# Mở rộng
 ## [YouTube - Branch Education](https://www.youtube.com/c/BranchEducation)
 
 1. [How does Computer Hardware Work?](https://www.youtube.com/watch?v=d86ws7mQYIg)
