@@ -4,10 +4,10 @@
 Lập trình Arduino, Platform IO, mạch cầu H, PWM, PCB,...
 
 ## PWM
-[PWM là gì?](https://youtu.be/GQLED3gmONg)
+[PWM là gì?](https://youtu.be/GQLED3gmONg) </br>
 ![Minh Họa PWM](image/pwm.png)
 ## Mạch cầu H
-[Mạch cầu H là gì?](https://youtu.be/3N_4VpzmKY0)
+[Mạch cầu H là gì?](https://youtu.be/3N_4VpzmKY0) </br>
 ![Minh họa mạch cầu H](image/h-bridge.png)
 
 # Mở rộng
